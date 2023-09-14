@@ -10,7 +10,7 @@
 }
 .row:not(:last-child) {
   margin-bottom: 16px;
-}
+} 
 
 .value {
   font-size: 78px;
